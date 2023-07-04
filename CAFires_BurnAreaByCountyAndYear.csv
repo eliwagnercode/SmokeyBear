@@ -1,0 +1,1678 @@
+﻿Year,FIPS,County Name,Total Burn Area
+1992,6001,Alameda County,1055.1
+1992,6003,Alpine County,143.2
+1992,6005,Amador County,710.4
+1992,6007,Butte County,18520.7
+1992,6009,Calaveras County,21321.6
+1992,6011,Colusa County,2791.4
+1992,6013,Contra Costa County,651.1
+1992,6015,Del Norte County,13.4
+1992,6017,El Dorado County,26093.7
+1992,6019,Fresno County,3630.1
+1992,6021,Glenn County,851.9
+1992,6023,Humboldt County,3195.6
+1992,6025,Imperial County,1985.6
+1992,6027,Inyo County,2219.9
+1992,6029,Kern County,11028.5
+1992,6031,Kings County,508.8
+1992,6033,Lake County,2838.2
+1992,6035,Lassen County,3615.4
+1992,6037,Los Angeles County,1874.5
+1992,6039,Madera County,12916.3
+1992,6041,Marin County,81.6
+1992,6043,Mariposa County,3283.7
+1992,6045,Mendocino County,1158.1
+1992,6047,Merced County,12992
+1992,6049,Modoc County,3240.1
+1992,6051,Mono County,36
+1992,6053,Monterey County,12444.7
+1992,6055,Napa County,1430.7
+1992,6057,Nevada County,309
+1992,6059,Orange County,20.7
+1992,6061,Placer County,2806.3
+1992,6063,Plumas County,130.3
+1992,6065,Riverside County,17957.1
+1992,6067,Sacramento County,978.7
+1992,6069,San Benito County,243
+1992,6071,San Bernardino County,6886.5
+1992,6073,San Diego County,7486.8
+1992,6075,San Francisco County,0.1
+1992,6077,San Joaquin County,825
+1992,6079,San Luis Obispo County,1771.9
+1992,6081,San Mateo County,26.9
+1992,6083,Santa Barbara County,1542.2
+1992,6085,Santa Clara County,282.2
+1992,6087,Santa Cruz County,61.7
+1992,6089,Shasta County,66275.5
+1992,6091,Sierra County,43.1
+1992,6093,Siskiyou County,3141.5
+1992,6095,Solano County,460.8
+1992,6097,Sonoma County,675
+1992,6099,Stanislaus County,2338.1
+1992,6101,Sutter County,120
+1992,6103,Tehama County,4626.1
+1992,6105,Trinity County,5419.8
+1992,6107,Tulare County,5477.6
+1992,6109,Tuolumne County,12521.1
+1992,6111,Ventura County,247.4
+1992,6113,Yolo County,898.8
+1992,6115,Yuba County,562.9
+1993,6001,Alameda County,1500.8
+1993,6003,Alpine County,2.9
+1993,6005,Amador County,435.4
+1993,6007,Butte County,1782.4
+1993,6009,Calaveras County,501.3
+1993,6011,Colusa County,179.7
+1993,6013,Contra Costa County,346.4
+1993,6015,Del Norte County,25.7
+1993,6017,El Dorado County,411.3
+1993,6019,Fresno County,9863.9
+1993,6021,Glenn County,206.2
+1993,6023,Humboldt County,646.3
+1993,6025,Imperial County,769.2
+1993,6027,Inyo County,28.9
+1993,6029,Kern County,40366.7
+1993,6031,Kings County,1540.1
+1993,6033,Lake County,404.7
+1993,6035,Lassen County,1389.6
+1993,6037,Los Angeles County,6903.4
+1993,6039,Madera County,3023.1
+1993,6041,Marin County,58.1
+1993,6043,Mariposa County,535.8
+1993,6045,Mendocino County,456.9
+1993,6047,Merced County,7813.1
+1993,6049,Modoc County,22
+1993,6051,Mono County,419
+1993,6053,Monterey County,8555.6
+1993,6055,Napa County,124.1
+1993,6057,Nevada County,80.2
+1993,6059,Orange County,0.7
+1993,6061,Placer County,434.5
+1993,6063,Plumas County,204.9
+1993,6065,Riverside County,47386.3
+1993,6067,Sacramento County,153.4
+1993,6069,San Benito County,1365.6
+1993,6071,San Bernardino County,22616.3
+1993,6073,San Diego County,61267.4
+1993,6075,San Francisco County,0.2
+1993,6077,San Joaquin County,625.8
+1993,6079,San Luis Obispo County,1608.4
+1993,6081,San Mateo County,469.8
+1993,6083,Santa Barbara County,43275.5
+1993,6085,Santa Clara County,286.7
+1993,6087,Santa Cruz County,31
+1993,6089,Shasta County,1318.2
+1993,6091,Sierra County,6.7
+1993,6093,Siskiyou County,82
+1993,6095,Solano County,176
+1993,6097,Sonoma County,1438.2
+1993,6099,Stanislaus County,1348.9
+1993,6103,Tehama County,1561.6
+1993,6105,Trinity County,160.4
+1993,6107,Tulare County,8099.2
+1993,6109,Tuolumne County,241
+1993,6111,Ventura County,39833
+1993,6113,Yolo County,280.8
+1993,6115,Yuba County,857.6
+1994,6001,Alameda County,313.1
+1994,6003,Alpine County,88.5
+1994,6005,Amador County,183
+1994,6007,Butte County,4966.8
+1994,6009,Calaveras County,3198.9
+1994,6011,Colusa County,327.1
+1994,6013,Contra Costa County,584.1
+1994,6015,Del Norte County,533.9
+1994,6017,El Dorado County,2202.8
+1994,6019,Fresno County,10276.7
+1994,6021,Glenn County,51.2
+1994,6023,Humboldt County,749.5
+1994,6025,Imperial County,368.5
+1994,6027,Inyo County,1154.8
+1994,6029,Kern County,26433.2
+1994,6031,Kings County,1150.4
+1994,6033,Lake County,91.2
+1994,6035,Lassen County,16724.8
+1994,6037,Los Angeles County,6116.7
+1994,6039,Madera County,2551.8
+1994,6041,Marin County,71
+1994,6043,Mariposa County,5097.6
+1994,6045,Mendocino County,981.4
+1994,6047,Merced County,1849.7
+1994,6049,Modoc County,5184.4
+1994,6051,Mono County,297.8
+1994,6053,Monterey County,2710.4
+1994,6055,Napa County,38.2
+1994,6057,Nevada County,2482.6
+1994,6059,Orange County,2332.8
+1994,6061,Placer County,597.9
+1994,6063,Plumas County,279.5
+1994,6065,Riverside County,43301.4
+1994,6067,Sacramento County,3114.1
+1994,6069,San Benito County,1454.7
+1994,6071,San Bernardino County,31053.9
+1994,6073,San Diego County,12522.8
+1994,6075,San Francisco County,1.2
+1994,6077,San Joaquin County,1335.6
+1994,6079,San Luis Obispo County,59689.7
+1994,6081,San Mateo County,41.1
+1994,6083,Santa Barbara County,5876.2
+1994,6085,Santa Clara County,313
+1994,6087,Santa Cruz County,18.7
+1994,6089,Shasta County,3361.7
+1994,6091,Sierra County,54127.9
+1994,6093,Siskiyou County,41295
+1994,6095,Solano County,247.5
+1994,6097,Sonoma County,1072.6
+1994,6099,Stanislaus County,1004.5
+1994,6101,Sutter County,25
+1994,6103,Tehama County,49446.6
+1994,6105,Trinity County,4582.9
+1994,6107,Tulare County,2614.8
+1994,6109,Tuolumne County,2599.2
+1994,6111,Ventura County,54.5
+1994,6113,Yolo County,142.7
+1994,6115,Yuba County,298.5
+1995,6001,Alameda County,1068.8
+1995,6003,Alpine County,41
+1995,6005,Amador County,288.7
+1995,6007,Butte County,793.7
+1995,6009,Calaveras County,661.5
+1995,6011,Colusa County,68.2
+1995,6013,Contra Costa County,1335.9
+1995,6015,Del Norte County,98.2
+1995,6017,El Dorado County,709.9
+1995,6019,Fresno County,4507
+1995,6021,Glenn County,25.1
+1995,6023,Humboldt County,922.7
+1995,6025,Imperial County,2086.3
+1995,6027,Inyo County,5907
+1995,6029,Kern County,29088.7
+1995,6031,Kings County,466.5
+1995,6033,Lake County,205
+1995,6035,Lassen County,1726.1
+1995,6037,Los Angeles County,3192
+1995,6039,Madera County,1416.9
+1995,6041,Marin County,12360.4
+1995,6043,Mariposa County,1401.8
+1995,6045,Mendocino County,2960.5
+1995,6047,Merced County,3573.5
+1995,6049,Modoc County,1795.8
+1995,6051,Mono County,109.8
+1995,6053,Monterey County,558.9
+1995,6055,Napa County,851.9
+1995,6057,Nevada County,80
+1995,6059,Orange County,10.9
+1995,6061,Placer County,1163.1
+1995,6063,Plumas County,15.7
+1995,6065,Riverside County,55827.2
+1995,6067,Sacramento County,995.2
+1995,6069,San Benito County,1147.9
+1995,6071,San Bernardino County,17021.8
+1995,6073,San Diego County,33279.1
+1995,6075,San Francisco County,0.3
+1995,6077,San Joaquin County,548.5
+1995,6079,San Luis Obispo County,6874.5
+1995,6081,San Mateo County,85.3
+1995,6083,Santa Barbara County,7.7
+1995,6085,Santa Clara County,148.5
+1995,6087,Santa Cruz County,72.4
+1995,6089,Shasta County,494.4
+1995,6091,Sierra County,5
+1995,6093,Siskiyou County,2719.6
+1995,6095,Solano County,109.4
+1995,6097,Sonoma County,108.8
+1995,6099,Stanislaus County,2827.5
+1995,6101,Sutter County,1
+1995,6103,Tehama County,1997.5
+1995,6105,Trinity County,284.7
+1995,6107,Tulare County,4789
+1995,6109,Tuolumne County,3556.8
+1995,6111,Ventura County,422.3
+1995,6113,Yolo County,610.4
+1995,6115,Yuba County,233.3
+1996,6001,Alameda County,2158.2
+1996,6003,Alpine County,209.1
+1996,6005,Amador County,141
+1996,6007,Butte County,2511.4
+1996,6009,Calaveras County,8144.1
+1996,6011,Colusa County,805.5
+1996,6013,Contra Costa County,659.7
+1996,6015,Del Norte County,719.5
+1996,6017,El Dorado County,519.6
+1996,6019,Fresno County,36636.3
+1996,6021,Glenn County,141.1
+1996,6023,Humboldt County,757.9
+1996,6025,Imperial County,38.8
+1996,6027,Inyo County,2247.9
+1996,6029,Kern County,38370.8
+1996,6031,Kings County,24034.3
+1996,6033,Lake County,84334.5
+1996,6035,Lassen County,4027.1
+1996,6037,Los Angeles County,44888.8
+1996,6039,Madera County,8618.6
+1996,6041,Marin County,2.6
+1996,6043,Mariposa County,5641.9
+1996,6045,Mendocino County,489.9
+1996,6047,Merced County,24470.6
+1996,6049,Modoc County,31686.8
+1996,6051,Mono County,4560.9
+1996,6053,Monterey County,38053.7
+1996,6055,Napa County,2264.1
+1996,6057,Nevada County,166.2
+1996,6059,Orange County,1.3
+1996,6061,Placer County,553.8
+1996,6063,Plumas County,6728.1
+1996,6065,Riverside County,46594.1
+1996,6067,Sacramento County,9957.1
+1996,6069,San Benito County,616.3
+1996,6071,San Bernardino County,6743.1
+1996,6073,San Diego County,40517.3
+1996,6075,San Francisco County,0.3
+1996,6077,San Joaquin County,1121.5
+1996,6079,San Luis Obispo County,113894.2
+1996,6081,San Mateo County,305.4
+1996,6083,Santa Barbara County,4712.3
+1996,6085,Santa Clara County,158.8
+1996,6087,Santa Cruz County,80.4
+1996,6089,Shasta County,2246.1
+1996,6091,Sierra County,74.5
+1996,6093,Siskiyou County,1375.7
+1996,6095,Solano County,1966.6
+1996,6097,Sonoma County,385.1
+1996,6099,Stanislaus County,1879.3
+1996,6101,Sutter County,3.2
+1996,6103,Tehama County,1901.4
+1996,6105,Trinity County,3640.3
+1996,6107,Tulare County,25958.1
+1996,6109,Tuolumne County,56423.6
+1996,6111,Ventura County,11591.5
+1996,6113,Yolo County,116.5
+1996,6115,Yuba County,311.2
+1997,6001,Alameda County,511.1
+1997,6003,Alpine County,6.7
+1997,6005,Amador County,203.8
+1997,6007,Butte County,1373.5
+1997,6009,Calaveras County,500.3
+1997,6011,Colusa County,112.8
+1997,6013,Contra Costa County,742
+1997,6015,Del Norte County,17.2
+1997,6017,El Dorado County,442.5
+1997,6019,Fresno County,9169.9
+1997,6021,Glenn County,138.8
+1997,6023,Humboldt County,669.7
+1997,6025,Imperial County,48.2
+1997,6027,Inyo County,560.5
+1997,6029,Kern County,81477.9
+1997,6031,Kings County,14.5
+1997,6033,Lake County,354.6
+1997,6035,Lassen County,4298.5
+1997,6037,Los Angeles County,25543.8
+1997,6039,Madera County,2391.7
+1997,6041,Marin County,5.7
+1997,6043,Mariposa County,85.2
+1997,6045,Mendocino County,524.9
+1997,6047,Merced County,1207.1
+1997,6049,Modoc County,252.4
+1997,6051,Mono County,181
+1997,6053,Monterey County,5606.4
+1997,6055,Napa County,243.2
+1997,6057,Nevada County,592.6
+1997,6059,Orange County,6925.4
+1997,6061,Placer County,156.1
+1997,6063,Plumas County,52.1
+1997,6065,Riverside County,19724.8
+1997,6067,Sacramento County,76.8
+1997,6069,San Benito County,376.5
+1997,6071,San Bernardino County,9126.5
+1997,6073,San Diego County,7158.8
+1997,6075,San Francisco County,0.6
+1997,6077,San Joaquin County,847.8
+1997,6079,San Luis Obispo County,53075.3
+1997,6081,San Mateo County,19.8
+1997,6083,Santa Barbara County,549.9
+1997,6085,Santa Clara County,341.9
+1997,6087,Santa Cruz County,69.9
+1997,6089,Shasta County,705.2
+1997,6091,Sierra County,15.2
+1997,6093,Siskiyou County,373.8
+1997,6095,Solano County,229.4
+1997,6097,Sonoma County,268.7
+1997,6099,Stanislaus County,155.5
+1997,6101,Sutter County,25
+1997,6103,Tehama County,2114.5
+1997,6105,Trinity County,74
+1997,6107,Tulare County,51807.5
+1997,6109,Tuolumne County,1583
+1997,6111,Ventura County,24887.7
+1997,6113,Yolo County,426.4
+1997,6115,Yuba County,5872.2
+1998,6001,Alameda County,1849.2
+1998,6003,Alpine County,98.8
+1998,6005,Amador County,35.4
+1998,6007,Butte County,437.7
+1998,6009,Calaveras County,305.3
+1998,6011,Colusa County,121.3
+1998,6013,Contra Costa County,1600.6
+1998,6015,Del Norte County,888
+1998,6017,El Dorado County,208.3
+1998,6019,Fresno County,3638.8
+1998,6021,Glenn County,242
+1998,6023,Humboldt County,421.7
+1998,6025,Imperial County,185
+1998,6027,Inyo County,3791.8
+1998,6029,Kern County,14785.9
+1998,6031,Kings County,125.3
+1998,6033,Lake County,421.3
+1998,6035,Lassen County,840.6
+1998,6037,Los Angeles County,794.5
+1998,6039,Madera County,2652.4
+1998,6041,Marin County,1.8
+1998,6043,Mariposa County,564.6
+1998,6045,Mendocino County,421.6
+1998,6047,Merced County,7799.1
+1998,6049,Modoc County,2766
+1998,6051,Mono County,38.8
+1998,6053,Monterey County,3196.3
+1998,6055,Napa County,81.7
+1998,6057,Nevada County,41.7
+1998,6059,Orange County,6032.6
+1998,6061,Placer County,155
+1998,6063,Plumas County,19.5
+1998,6065,Riverside County,40033.4
+1998,6067,Sacramento County,28
+1998,6069,San Benito County,2684.1
+1998,6071,San Bernardino County,6866.4
+1998,6073,San Diego County,6662.1
+1998,6075,San Francisco County,0.5
+1998,6077,San Joaquin County,11.4
+1998,6079,San Luis Obispo County,3022.2
+1998,6081,San Mateo County,22.9
+1998,6083,Santa Barbara County,4041.1
+1998,6085,Santa Clara County,473.2
+1998,6087,Santa Cruz County,7
+1998,6089,Shasta County,350
+1998,6091,Sierra County,8.4
+1998,6093,Siskiyou County,10545.8
+1998,6095,Solano County,160.4
+1998,6097,Sonoma County,61.4
+1998,6099,Stanislaus County,908.9
+1998,6103,Tehama County,4297.4
+1998,6105,Trinity County,52.3
+1998,6107,Tulare County,4144
+1998,6109,Tuolumne County,13168.2
+1998,6111,Ventura County,88.6
+1998,6113,Yolo County,7403.5
+1998,6115,Yuba County,416.9
+1999,6001,Alameda County,781.5
+1999,6003,Alpine County,3248.3
+1999,6005,Amador County,393
+1999,6007,Butte County,36353.5
+1999,6009,Calaveras County,1529
+1999,6011,Colusa County,40074
+1999,6013,Contra Costa County,289.8
+1999,6015,Del Norte County,76
+1999,6017,El Dorado County,383.5
+1999,6019,Fresno County,2946.3
+1999,6021,Glenn County,38.4
+1999,6023,Humboldt County,459
+1999,6025,Imperial County,37.7
+1999,6027,Inyo County,5167.2
+1999,6029,Kern County,6179.3
+1999,6031,Kings County,430
+1999,6033,Lake County,198.6
+1999,6035,Lassen County,13442.2
+1999,6037,Los Angeles County,13221.3
+1999,6039,Madera County,566.6
+1999,6041,Marin County,2.8
+1999,6043,Mariposa County,7807.6
+1999,6045,Mendocino County,248
+1999,6047,Merced County,3396.6
+1999,6049,Modoc County,35246.8
+1999,6051,Mono County,555.9
+1999,6053,Monterey County,87377.5
+1999,6055,Napa County,164.2
+1999,6057,Nevada County,375.3
+1999,6059,Orange County,460
+1999,6061,Placer County,387
+1999,6063,Plumas County,53044.3
+1999,6065,Riverside County,20652
+1999,6067,Sacramento County,998.8
+1999,6069,San Benito County,290.1
+1999,6071,San Bernardino County,73663.9
+1999,6073,San Diego County,23309.1
+1999,6075,San Francisco County,2.7
+1999,6077,San Joaquin County,120.7
+1999,6079,San Luis Obispo County,1344.1
+1999,6081,San Mateo County,16.7
+1999,6083,Santa Barbara County,14783
+1999,6085,Santa Clara County,1306.4
+1999,6087,Santa Cruz County,33.7
+1999,6089,Shasta County,68436.2
+1999,6091,Sierra County,32.6
+1999,6093,Siskiyou County,8523.7
+1999,6095,Solano County,1851.4
+1999,6097,Sonoma County,1529.5
+1999,6099,Stanislaus County,1193.7
+1999,6103,Tehama County,97607.1
+1999,6105,Trinity County,127758.5
+1999,6107,Tulare County,4003
+1999,6109,Tuolumne County,17070.5
+1999,6111,Ventura County,7334.7
+1999,6113,Yolo County,4822.3
+1999,6115,Yuba County,12364.9
+2000,6001,Alameda County,301
+2000,6003,Alpine County,845.1
+2000,6005,Amador County,267
+2000,6007,Butte County,2958.1
+2000,6009,Calaveras County,1393.4
+2000,6011,Colusa County,138.8
+2000,6013,Contra Costa County,223.3
+2000,6015,Del Norte County,9
+2000,6017,El Dorado County,1056.3
+2000,6019,Fresno County,3943.9
+2000,6021,Glenn County,1161
+2000,6023,Humboldt County,730.7
+2000,6025,Imperial County,279.1
+2000,6027,Inyo County,6720.4
+2000,6029,Kern County,6788
+2000,6031,Kings County,11
+2000,6033,Lake County,9837.7
+2000,6035,Lassen County,2861.5
+2000,6037,Los Angeles County,2675.5
+2000,6039,Madera County,899.4
+2000,6041,Marin County,8.9
+2000,6043,Mariposa County,11019.4
+2000,6045,Mendocino County,292.3
+2000,6047,Merced County,2777.1
+2000,6049,Modoc County,212.7
+2000,6051,Mono County,2931.1
+2000,6053,Monterey County,6404.6
+2000,6055,Napa County,5929.5
+2000,6057,Nevada County,96.9
+2000,6059,Orange County,12.7
+2000,6061,Placer County,919.3
+2000,6063,Plumas County,57161.2
+2000,6065,Riverside County,12888.6
+2000,6067,Sacramento County,265.2
+2000,6069,San Benito County,297.6
+2000,6071,San Bernardino County,1575.1
+2000,6073,San Diego County,3537.5
+2000,6075,San Francisco County,0.2
+2000,6077,San Joaquin County,616.7
+2000,6079,San Luis Obispo County,7840
+2000,6081,San Mateo County,13.4
+2000,6083,Santa Barbara County,10324.3
+2000,6085,Santa Clara County,609.2
+2000,6087,Santa Cruz County,28
+2000,6089,Shasta County,695.4
+2000,6091,Sierra County,32.2
+2000,6093,Siskiyou County,3872.6
+2000,6095,Solano County,612.1
+2000,6097,Sonoma County,164.2
+2000,6099,Stanislaus County,70
+2000,6101,Sutter County,0.1
+2000,6103,Tehama County,9302
+2000,6105,Trinity County,1044.3
+2000,6107,Tulare County,77710.2
+2000,6109,Tuolumne County,274.7
+2000,6111,Ventura County,1149.9
+2000,6113,Yolo County,650.6
+2000,6115,Yuba County,227.1
+2001,6001,Alameda County,670.2
+2001,6003,Alpine County,14528
+2001,6005,Amador County,3109.2
+2001,6007,Butte County,11246.4
+2001,6009,Calaveras County,8161.4
+2001,6011,Colusa County,24989.5
+2001,6013,Contra Costa County,400
+2001,6015,Del Norte County,136.7
+2001,6017,El Dorado County,586.4
+2001,6019,Fresno County,7703.3
+2001,6021,Glenn County,458.9
+2001,6023,Humboldt County,1430.9
+2001,6025,Imperial County,454.6
+2001,6027,Inyo County,175.1
+2001,6029,Kern County,5381.4
+2001,6031,Kings County,30
+2001,6033,Lake County,519.6
+2001,6035,Lassen County,109931.8
+2001,6037,Los Angeles County,9421.4
+2001,6039,Madera County,14397.7
+2001,6041,Marin County,3
+2001,6043,Mariposa County,12114
+2001,6045,Mendocino County,1419.5
+2001,6047,Merced County,6875.6
+2001,6049,Modoc County,11993.8
+2001,6051,Mono County,8480.5
+2001,6053,Monterey County,279.3
+2001,6055,Napa County,104.9
+2001,6057,Nevada County,252.4
+2001,6059,Orange County,2.6
+2001,6061,Placer County,22504.1
+2001,6063,Plumas County,3678.6
+2001,6065,Riverside County,6807.2
+2001,6067,Sacramento County,1507.9
+2001,6069,San Benito County,891.1
+2001,6071,San Bernardino County,4274.7
+2001,6073,San Diego County,13435.6
+2001,6075,San Francisco County,0.8
+2001,6077,San Joaquin County,205.4
+2001,6079,San Luis Obispo County,643.7
+2001,6081,San Mateo County,71.4
+2001,6083,Santa Barbara County,56.7
+2001,6085,Santa Clara County,319.2
+2001,6087,Santa Cruz County,68.8
+2001,6089,Shasta County,2350.3
+2001,6091,Sierra County,718.9
+2001,6093,Siskiyou County,10413.2
+2001,6095,Solano County,77.7
+2001,6097,Sonoma County,554.2
+2001,6099,Stanislaus County,606.4
+2001,6101,Sutter County,40
+2001,6103,Tehama County,3266.7
+2001,6105,Trinity County,3857.1
+2001,6107,Tulare County,2749.8
+2001,6109,Tuolumne County,14837.6
+2001,6111,Ventura County,587.2
+2001,6113,Yolo County,70.5
+2001,6115,Yuba County,225.3
+2002,6001,Alameda County,2391
+2002,6003,Alpine County,638.1
+2002,6005,Amador County,564.1
+2002,6007,Butte County,4320.2
+2002,6009,Calaveras County,1352.2
+2002,6011,Colusa County,213.3
+2002,6013,Contra Costa County,441.6
+2002,6015,Del Norte County,1029.4
+2002,6017,El Dorado County,6681
+2002,6019,Fresno County,4023.4
+2002,6021,Glenn County,874.2
+2002,6023,Humboldt County,1142.3
+2002,6025,Imperial County,88.6
+2002,6027,Inyo County,7775
+2002,6029,Kern County,6426.8
+2002,6031,Kings County,0.4
+2002,6033,Lake County,386
+2002,6035,Lassen County,8737.6
+2002,6037,Los Angeles County,98302.6
+2002,6039,Madera County,1898.3
+2002,6041,Marin County,10.7
+2002,6043,Mariposa County,773.7
+2002,6045,Mendocino County,2474.9
+2002,6047,Merced County,2552.5
+2002,6049,Modoc County,534.5
+2002,6051,Mono County,35578.7
+2002,6053,Monterey County,5942.4
+2002,6055,Napa County,916.5
+2002,6057,Nevada County,774.4
+2002,6059,Orange County,2946.2
+2002,6061,Placer County,1511
+2002,6063,Plumas County,153.8
+2002,6065,Riverside County,8626
+2002,6067,Sacramento County,1341.6
+2002,6069,San Benito County,508.9
+2002,6071,San Bernardino County,17773.2
+2002,6073,San Diego County,75053.3
+2002,6077,San Joaquin County,532.7
+2002,6079,San Luis Obispo County,5004.4
+2002,6081,San Mateo County,45
+2002,6083,Santa Barbara County,7854.8
+2002,6085,Santa Clara County,3639.5
+2002,6087,Santa Cruz County,28.3
+2002,6089,Shasta County,1232.2
+2002,6091,Sierra County,6.7
+2002,6093,Siskiyou County,8192.9
+2002,6095,Solano County,404.4
+2002,6097,Sonoma County,180.5
+2002,6099,Stanislaus County,1357.2
+2002,6103,Tehama County,940
+2002,6105,Trinity County,198.7
+2002,6107,Tulare County,154465.3
+2002,6109,Tuolumne County,2603.3
+2002,6111,Ventura County,21818
+2002,6113,Yolo County,758.9
+2002,6115,Yuba County,1751.1
+2003,6001,Alameda County,639.2
+2003,6003,Alpine County,4115.85
+2003,6005,Amador County,295.4
+2003,6007,Butte County,1720.5
+2003,6009,Calaveras County,1198.3
+2003,6011,Colusa County,699.4
+2003,6013,Contra Costa County,874.5
+2003,6015,Del Norte County,27.15
+2003,6017,El Dorado County,553.8
+2003,6019,Fresno County,2727.35
+2003,6021,Glenn County,9291.51
+2003,6023,Humboldt County,26176.8
+2003,6025,Imperial County,32.3
+2003,6027,Inyo County,466.3
+2003,6029,Kern County,8706.65
+2003,6031,Kings County,2
+2003,6033,Lake County,8350.2
+2003,6035,Lassen County,11904.9
+2003,6037,Los Angeles County,132334.5
+2003,6039,Madera County,3695.75
+2003,6041,Marin County,2.1
+2003,6043,Mariposa County,3777.5
+2003,6045,Mendocino County,1277.5
+2003,6047,Merced County,4481
+2003,6049,Modoc County,12020.82
+2003,6051,Mono County,3363.5
+2003,6053,Monterey County,1753.7
+2003,6055,Napa County,369.1
+2003,6057,Nevada County,355.8
+2003,6059,Orange County,2.4
+2003,6061,Placer County,1407.9
+2003,6063,Plumas County,5765.1
+2003,6065,Riverside County,57805.85
+2003,6067,Sacramento County,517.2
+2003,6069,San Benito County,1874
+2003,6071,San Bernardino County,156499.83
+2003,6073,San Diego County,394244.9
+2003,6075,San Francisco County,1.7
+2003,6077,San Joaquin County,7203.7
+2003,6079,San Luis Obispo County,4136
+2003,6081,San Mateo County,73.8
+2003,6083,Santa Barbara County,279
+2003,6085,Santa Clara County,31395.9
+2003,6087,Santa Cruz County,26.9
+2003,6089,Shasta County,2001.45
+2003,6091,Sierra County,95
+2003,6093,Siskiyou County,1684.19
+2003,6095,Solano County,438.2
+2003,6097,Sonoma County,231.3
+2003,6099,Stanislaus County,8711
+2003,6101,Sutter County,8.6
+2003,6103,Tehama County,1951.05
+2003,6105,Trinity County,4452.35
+2003,6107,Tulare County,28958.5
+2003,6109,Tuolumne County,18260.95
+2003,6111,Ventura County,63871.6
+2003,6113,Yolo County,852
+2003,6115,Yuba County,233.5
+2004,6001,Alameda County,396.5
+2004,6003,Alpine County,23.95
+2004,6005,Amador County,17339.3
+2004,6007,Butte County,3277.6
+2004,6009,Calaveras County,6925.7
+2004,6011,Colusa County,77.04
+2004,6013,Contra Costa County,343.4
+2004,6015,Del Norte County,30
+2004,6017,El Dorado County,8031.55
+2004,6019,Fresno County,3110.84
+2004,6021,Glenn County,422.32
+2004,6023,Humboldt County,4754.65
+2004,6025,Imperial County,63.5
+2004,6027,Inyo County,6033.1
+2004,6029,Kern County,2285.95
+2004,6031,Kings County,4.1
+2004,6033,Lake County,13110.55
+2004,6035,Lassen County,5551.4
+2004,6037,Los Angeles County,37915.82
+2004,6039,Madera County,2559.15
+2004,6041,Marin County,390.4
+2004,6043,Mariposa County,7936.9
+2004,6045,Mendocino County,683.1
+2004,6047,Merced County,2128.5
+2004,6049,Modoc County,825.25
+2004,6051,Mono County,3457.15
+2004,6053,Monterey County,1371.75
+2004,6055,Napa County,160.5
+2004,6057,Nevada County,343.39
+2004,6059,Orange County,348.76
+2004,6061,Placer County,6675.37
+2004,6063,Plumas County,850.35
+2004,6065,Riverside County,41831.96
+2004,6067,Sacramento County,912.6
+2004,6069,San Benito County,379.9
+2004,6071,San Bernardino County,992.65
+2004,6073,San Diego County,14104.75
+2004,6075,San Francisco County,0.5
+2004,6077,San Joaquin County,1406.9
+2004,6079,San Luis Obispo County,680.6
+2004,6081,San Mateo County,23.7
+2004,6083,Santa Barbara County,8989.45
+2004,6085,Santa Clara County,2249.5
+2004,6087,Santa Cruz County,36.5
+2004,6089,Shasta County,27575.78
+2004,6091,Sierra County,12.3
+2004,6093,Siskiyou County,3659.46
+2004,6095,Solano County,1788.2
+2004,6097,Sonoma County,593.6
+2004,6099,Stanislaus County,1901.2
+2004,6101,Sutter County,22.3
+2004,6103,Tehama County,1812.76
+2004,6105,Trinity County,196.28
+2004,6107,Tulare County,8144.76
+2004,6109,Tuolumne County,5762.8
+2004,6111,Ventura County,271.83
+2004,6113,Yolo County,39240.5
+2004,6115,Yuba County,585.85
+2005,6001,Alameda County,7797.3
+2005,6003,Alpine County,597.36
+2005,6005,Amador County,103.65
+2005,6007,Butte County,1382.16
+2005,6009,Calaveras County,488.05
+2005,6011,Colusa County,152.9
+2005,6013,Contra Costa County,1856.8
+2005,6015,Del Norte County,4.25
+2005,6017,El Dorado County,255.39
+2005,6019,Fresno County,22700.4
+2005,6021,Glenn County,431.22
+2005,6023,Humboldt County,349.8
+2005,6025,Imperial County,48.9
+2005,6027,Inyo County,15723
+2005,6029,Kern County,12788
+2005,6031,Kings County,257.9
+2005,6033,Lake County,2603.15
+2005,6035,Lassen County,52.51
+2005,6037,Los Angeles County,33983.28
+2005,6039,Madera County,4086.5
+2005,6041,Marin County,6.52
+2005,6043,Mariposa County,1351.2
+2005,6045,Mendocino County,591.9
+2005,6047,Merced County,4889
+2005,6049,Modoc County,689.35
+2005,6051,Mono County,262.76
+2005,6053,Monterey County,1913.8
+2005,6055,Napa County,344.4
+2005,6057,Nevada County,142.21
+2005,6059,Orange County,1171.09
+2005,6061,Placer County,710.46
+2005,6063,Plumas County,1643.9
+2005,6065,Riverside County,19703.15
+2005,6067,Sacramento County,842.4
+2005,6069,San Benito County,245.4
+2005,6071,San Bernardino County,84401.81
+2005,6073,San Diego County,7128.45
+2005,6075,San Francisco County,32.3
+2005,6077,San Joaquin County,657
+2005,6079,San Luis Obispo County,861.51
+2005,6081,San Mateo County,19.7
+2005,6083,Santa Barbara County,118.55
+2005,6085,Santa Clara County,128.8
+2005,6087,Santa Cruz County,29.5
+2005,6089,Shasta County,1084.51
+2005,6091,Sierra County,2280.65
+2005,6093,Siskiyou County,4508.11
+2005,6095,Solano County,564.1
+2005,6097,Sonoma County,262
+2005,6099,Stanislaus County,2294.8
+2005,6101,Sutter County,81.8
+2005,6103,Tehama County,5404.75
+2005,6105,Trinity County,53.81
+2005,6107,Tulare County,5956.1
+2005,6109,Tuolumne County,2014.36
+2005,6111,Ventura County,4536.3
+2005,6113,Yolo County,1118.48
+2005,6115,Yuba County,142.01
+2006,6001,Alameda County,1477.1
+2006,6003,Alpine County,100.6
+2006,6005,Amador County,521.7
+2006,6007,Butte County,1403.13
+2006,6009,Calaveras County,922.01
+2006,6011,Colusa County,332.7
+2006,6013,Contra Costa County,1053.11
+2006,6015,Del Norte County,440.9
+2006,6017,El Dorado County,667.17
+2006,6019,Fresno County,20365.85
+2006,6021,Glenn County,16375.11
+2006,6023,Humboldt County,22592.4
+2006,6025,Imperial County,198.6
+2006,6027,Inyo County,17554.62
+2006,6029,Kern County,16059.69
+2006,6031,Kings County,472.1
+2006,6033,Lake County,1214.85
+2006,6035,Lassen County,7979.16
+2006,6037,Los Angeles County,173522.9
+2006,6039,Madera County,2140
+2006,6041,Marin County,22.75
+2006,6043,Mariposa County,1571.12
+2006,6045,Mendocino County,1623.4
+2006,6047,Merced County,27852.4
+2006,6049,Modoc County,9324.43
+2006,6051,Mono County,13827.2
+2006,6053,Monterey County,15719.12
+2006,6055,Napa County,677.45
+2006,6057,Nevada County,162.2
+2006,6059,Orange County,228.71
+2006,6061,Placer County,9060.1
+2006,6063,Plumas County,4094.81
+2006,6065,Riverside County,63139.97
+2006,6067,Sacramento County,434
+2006,6069,San Benito County,112.5
+2006,6071,San Bernardino County,99720.61
+2006,6073,San Diego County,18968.83
+2006,6075,San Francisco County,129.6
+2006,6077,San Joaquin County,1642.2
+2006,6079,San Luis Obispo County,5403.36
+2006,6081,San Mateo County,73.8
+2006,6083,Santa Barbara County,16763.1
+2006,6085,Santa Clara County,389.6
+2006,6087,Santa Cruz County,60.7
+2006,6089,Shasta County,1386.62
+2006,6091,Sierra County,3967.41
+2006,6093,Siskiyou County,27681.52
+2006,6095,Solano County,212.22
+2006,6097,Sonoma County,258.6
+2006,6099,Stanislaus County,39019.4
+2006,6101,Sutter County,72.8
+2006,6103,Tehama County,8740.55
+2006,6105,Trinity County,105721.82
+2006,6107,Tulare County,16197.65
+2006,6109,Tuolumne County,9293.7
+2006,6111,Ventura County,30182.61
+2006,6113,Yolo County,961
+2006,6115,Yuba County,558.26
+2007,6001,Alameda County,561.8
+2007,6003,Alpine County,99.63
+2007,6005,Amador County,279.62
+2007,6007,Butte County,3071.4
+2007,6009,Calaveras County,663.94
+2007,6011,Colusa County,16.3
+2007,6013,Contra Costa County,539.2
+2007,6015,Del Norte County,145.7
+2007,6017,El Dorado County,3804.42
+2007,6019,Fresno County,2548.66
+2007,6021,Glenn County,19
+2007,6023,Humboldt County,449.21
+2007,6025,Imperial County,3
+2007,6027,Inyo County,8620.9
+2007,6029,Kern County,9582.53
+2007,6031,Kings County,8741.6
+2007,6033,Lake County,564.47
+2007,6035,Lassen County,1568.97
+2007,6037,Los Angeles County,107328.26
+2007,6039,Madera County,1647.6
+2007,6041,Marin County,47.05
+2007,6043,Mariposa County,1791.57
+2007,6045,Mendocino County,719.71
+2007,6047,Merced County,1063.3
+2007,6049,Modoc County,9156.3
+2007,6051,Mono County,3541.7
+2007,6053,Monterey County,3036.2
+2007,6055,Napa County,627.5
+2007,6057,Nevada County,469.6
+2007,6059,Orange County,30558.44
+2007,6061,Placer County,1660
+2007,6063,Plumas County,88565.94
+2007,6065,Riverside County,6673.8
+2007,6067,Sacramento County,470.8
+2007,6069,San Benito County,621.1
+2007,6071,San Bernardino County,37291.72
+2007,6073,San Diego County,376787.62
+2007,6075,San Francisco County,23.4
+2007,6077,San Joaquin County,891.85
+2007,6079,San Luis Obispo County,1030.99
+2007,6081,San Mateo County,64.7
+2007,6083,Santa Barbara County,241986.35
+2007,6085,Santa Clara County,48184.8
+2007,6087,Santa Cruz County,74.6
+2007,6089,Shasta County,2752.64
+2007,6091,Sierra County,5724.83
+2007,6093,Siskiyou County,18272.16
+2007,6095,Solano County,733.8
+2007,6097,Sonoma County,3419.75
+2007,6099,Stanislaus County,1270.4
+2007,6101,Sutter County,78.4
+2007,6103,Tehama County,2593.26
+2007,6105,Trinity County,1575.58
+2007,6107,Tulare County,15820.72
+2007,6109,Tuolumne County,1014.14
+2007,6111,Ventura County,172.3
+2007,6113,Yolo County,919.56
+2007,6115,Yuba County,1553.31
+2008,6001,Alameda County,275.75
+2008,6003,Alpine County,451.93
+2008,6005,Amador County,498.9
+2008,6007,Butte County,44899.82
+2008,6009,Calaveras County,347.69
+2008,6011,Colusa County,683.1
+2008,6013,Contra Costa County,280.02
+2008,6015,Del Norte County,17684.55
+2008,6017,El Dorado County,917.93
+2008,6019,Fresno County,12048.38
+2008,6021,Glenn County,153.3
+2008,6023,Humboldt County,2206.82
+2008,6025,Imperial County,427.5
+2008,6027,Inyo County,924.9
+2008,6029,Kern County,39421.75
+2008,6031,Kings County,43.7
+2008,6033,Lake County,18887.16
+2008,6035,Lassen County,15906.69
+2008,6037,Los Angeles County,32189.13
+2008,6039,Madera County,4783.32
+2008,6041,Marin County,464.22
+2008,6043,Mariposa County,37655.25
+2008,6045,Mendocino County,50706.65
+2008,6047,Merced County,2739.61
+2008,6049,Modoc County,264.75
+2008,6051,Mono County,1019.9
+2008,6053,Monterey County,256194.81
+2008,6055,Napa County,4812.61
+2008,6057,Nevada County,3831.87
+2008,6059,Orange County,30326.55
+2008,6061,Placer County,22445.61
+2008,6063,Plumas County,92305.81
+2008,6065,Riverside County,3425.93
+2008,6067,Sacramento County,6661.5
+2008,6069,San Benito County,4012.41
+2008,6071,San Bernardino County,3148.74
+2008,6073,San Diego County,7188.98
+2008,6075,San Francisco County,227.2
+2008,6077,San Joaquin County,311.81
+2008,6079,San Luis Obispo County,2919.71
+2008,6081,San Mateo County,358.26
+2008,6083,Santa Barbara County,11669.43
+2008,6085,Santa Clara County,5121.6
+2008,6087,Santa Cruz County,1337.3
+2008,6089,Shasta County,128468.31
+2008,6091,Sierra County,796.11
+2008,6093,Siskiyou County,208739.85
+2008,6095,Solano County,359.74
+2008,6097,Sonoma County,1675.51
+2008,6099,Stanislaus County,1378.29
+2008,6101,Sutter County,18.05
+2008,6103,Tehama County,86773.24
+2008,6105,Trinity County,232764.14
+2008,6107,Tulare County,23823.78
+2008,6109,Tuolumne County,5728.31
+2008,6111,Ventura County,86.87
+2008,6113,Yolo County,387.74
+2008,6115,Yuba County,940.25
+2009,6001,Alameda County,623.37
+2009,6003,Alpine County,10.11
+2009,6005,Amador County,80.7
+2009,6007,Butte County,379.55
+2009,6009,Calaveras County,693.02
+2009,6011,Colusa County,213.53
+2009,6013,Contra Costa County,581.45
+2009,6015,Del Norte County,323.88
+2009,6017,El Dorado County,897.82
+2009,6019,Fresno County,850.83
+2009,6021,Glenn County,9.4
+2009,6023,Humboldt County,9649.28
+2009,6025,Imperial County,557.2
+2009,6027,Inyo County,4574.52
+2009,6029,Kern County,2326.68
+2009,6031,Kings County,147.22
+2009,6033,Lake County,1940.23
+2009,6035,Lassen County,15280.83
+2009,6037,Los Angeles County,172247.9
+2009,6039,Madera County,865.65
+2009,6041,Marin County,19.6
+2009,6043,Mariposa County,10700.6
+2009,6045,Mendocino County,363.62
+2009,6047,Merced County,406.42
+2009,6049,Modoc County,155.8
+2009,6051,Mono County,129.8
+2009,6053,Monterey County,11078.97
+2009,6055,Napa County,264.34
+2009,6057,Nevada County,2688.69
+2009,6059,Orange County,299.8
+2009,6061,Placer County,1018.78
+2009,6063,Plumas County,1041.1
+2009,6065,Riverside County,6808.33
+2009,6067,Sacramento County,652.09
+2009,6069,San Benito County,152
+2009,6071,San Bernardino County,13467.32
+2009,6073,San Diego County,3385.19
+2009,6075,San Francisco County,220.1
+2009,6077,San Joaquin County,14771.25
+2009,6079,San Luis Obispo County,421.37
+2009,6081,San Mateo County,21.62
+2009,6083,Santa Barbara County,100749.82
+2009,6085,Santa Clara County,1781.6
+2009,6087,Santa Cruz County,8355.74
+2009,6089,Shasta County,32255.66
+2009,6091,Sierra County,178.72
+2009,6093,Siskiyou County,5256.27
+2009,6095,Solano County,392.85
+2009,6097,Sonoma County,687.52
+2009,6099,Stanislaus County,1280.25
+2009,6101,Sutter County,61.9
+2009,6103,Tehama County,282.81
+2009,6105,Trinity County,3817.94
+2009,6107,Tulare County,7303.7
+2009,6109,Tuolumne County,9252.9
+2009,6111,Ventura County,18171.98
+2009,6113,Yolo County,2016.5
+2009,6115,Yuba County,4010.97
+2010,6001,Alameda County,927.87
+2010,6003,Alpine County,1145.09
+2010,6005,Amador County,45.25
+2010,6007,Butte County,1355.4
+2010,6009,Calaveras County,387.64
+2010,6011,Colusa County,49.8
+2010,6013,Contra Costa County,726.79
+2010,6015,Del Norte County,13.03
+2010,6017,El Dorado County,222.8
+2010,6019,Fresno County,11039.45
+2010,6021,Glenn County,13.45
+2010,6023,Humboldt County,514.36
+2010,6025,Imperial County,580.61
+2010,6027,Inyo County,169.85
+2010,6029,Kern County,34397.12
+2010,6031,Kings County,58.08
+2010,6033,Lake County,784.75
+2010,6035,Lassen County,11694.57
+2010,6037,Los Angeles County,15646.5
+2010,6039,Madera County,2129.5
+2010,6041,Marin County,50.07
+2010,6043,Mariposa County,167.76
+2010,6045,Mendocino County,195.35
+2010,6047,Merced County,4083.82
+2010,6049,Modoc County,628.06
+2010,6051,Mono County,1994.75
+2010,6053,Monterey County,590.37
+2010,6055,Napa County,173.78
+2010,6057,Nevada County,63.36
+2010,6059,Orange County,1138.28
+2010,6061,Placer County,1510.96
+2010,6063,Plumas County,1276.44
+2010,6065,Riverside County,5283.81
+2010,6067,Sacramento County,343.39
+2010,6069,San Benito County,241.5
+2010,6071,San Bernardino County,700.95
+2010,6073,San Diego County,6381.43
+2010,6075,San Francisco County,14
+2010,6077,San Joaquin County,765.35
+2010,6079,San Luis Obispo County,5109.6
+2010,6081,San Mateo County,23.75
+2010,6083,Santa Barbara County,1787.47
+2010,6085,Santa Clara County,141.99
+2010,6087,Santa Cruz County,27.82
+2010,6089,Shasta County,426.79
+2010,6091,Sierra County,66.85
+2010,6093,Siskiyou County,545.91
+2010,6095,Solano County,81.11
+2010,6097,Sonoma County,257.78
+2010,6099,Stanislaus County,3436.37
+2010,6101,Sutter County,27.07
+2010,6103,Tehama County,375.75
+2010,6105,Trinity County,44.81
+2010,6107,Tulare County,3262.92
+2010,6109,Tuolumne County,4015.37
+2010,6111,Ventura County,197.74
+2010,6113,Yolo County,52.68
+2010,6115,Yuba County,1776.8
+2011,6001,Alameda County,1506.34
+2011,6003,Alpine County,87.35
+2011,6005,Amador County,115.43
+2011,6007,Butte County,446.45
+2011,6009,Calaveras County,1304.86
+2011,6011,Colusa County,323.25
+2011,6013,Contra Costa County,570.44
+2011,6015,Del Norte County,6.02
+2011,6017,El Dorado County,1039.47
+2011,6019,Fresno County,2418.69
+2011,6021,Glenn County,4.9
+2011,6023,Humboldt County,791.02
+2011,6025,Imperial County,6649.4
+2011,6027,Inyo County,6898.74
+2011,6029,Kern County,68171.66
+2011,6031,Kings County,141.22
+2011,6033,Lake County,98
+2011,6035,Lassen County,822.41
+2011,6037,Los Angeles County,2999.67
+2011,6039,Madera County,1016.81
+2011,6041,Marin County,12.21
+2011,6043,Mariposa County,7464.98
+2011,6045,Mendocino County,802.81
+2011,6047,Merced County,2335.84
+2011,6049,Modoc County,4904.49
+2011,6051,Mono County,1117.84
+2011,6053,Monterey County,2584.34
+2011,6055,Napa County,636.85
+2011,6057,Nevada County,52.17
+2011,6059,Orange County,42.77
+2011,6061,Placer County,358.54
+2011,6063,Plumas County,41.95
+2011,6065,Riverside County,4554.69
+2011,6067,Sacramento County,162.65
+2011,6069,San Benito County,237.51
+2011,6071,San Bernardino County,7836.53
+2011,6073,San Diego County,16234.17
+2011,6075,San Francisco County,11.3
+2011,6077,San Joaquin County,408.25
+2011,6079,San Luis Obispo County,9526.96
+2011,6081,San Mateo County,13.85
+2011,6083,Santa Barbara County,1934.75
+2011,6085,Santa Clara County,186.92
+2011,6087,Santa Cruz County,29.14
+2011,6089,Shasta County,409.42
+2011,6091,Sierra County,28.34
+2011,6093,Siskiyou County,2520.89
+2011,6095,Solano County,773.45
+2011,6097,Sonoma County,110.76
+2011,6099,Stanislaus County,2288.6
+2011,6101,Sutter County,391.26
+2011,6103,Tehama County,538.5
+2011,6105,Trinity County,1542.23
+2011,6107,Tulare County,24779.57
+2011,6109,Tuolumne County,876.21
+2011,6111,Ventura County,81.89
+2011,6113,Yolo County,162.51
+2011,6115,Yuba County,869.65
+2012,6001,Alameda County,133.52
+2012,6003,Alpine County,12.1
+2012,6005,Amador County,93.93
+2012,6007,Butte County,618.12
+2012,6009,Calaveras County,1907.55
+2012,6011,Colusa County,51819.4
+2012,6013,Contra Costa County,180.28
+2012,6015,Del Norte County,15.95
+2012,6017,El Dorado County,380.5
+2012,6019,Fresno County,2814.34
+2012,6021,Glenn County,218.88
+2012,6023,Humboldt County,601.02
+2012,6025,Imperial County,357.3
+2012,6027,Inyo County,1615.23
+2012,6029,Kern County,19129.48
+2012,6031,Kings County,57.25
+2012,6033,Lake County,15726.77
+2012,6035,Lassen County,327261.96
+2012,6037,Los Angeles County,5717.64
+2012,6039,Madera County,419.19
+2012,6041,Marin County,35.47
+2012,6043,Mariposa County,3512.71
+2012,6045,Mendocino County,42840.34
+2012,6047,Merced County,1115.33
+2012,6049,Modoc County,6314.3
+2012,6051,Mono County,12717.98
+2012,6053,Monterey County,3050.05
+2012,6055,Napa County,273.17
+2012,6057,Nevada County,91.6
+2012,6059,Orange County,12.81
+2012,6061,Placer County,3204.56
+2012,6063,Plumas County,76365.42
+2012,6065,Riverside County,9998.49
+2012,6067,Sacramento County,93.71
+2012,6069,San Benito County,83.56
+2012,6071,San Bernardino County,1151.24
+2012,6073,San Diego County,21853.68
+2012,6075,San Francisco County,0.4
+2012,6077,San Joaquin County,279.8
+2012,6079,San Luis Obispo County,1161.57
+2012,6081,San Mateo County,24.23
+2012,6083,Santa Barbara County,74.97
+2012,6085,Santa Clara County,55.9
+2012,6087,Santa Cruz County,129.03
+2012,6089,Shasta County,78370
+2012,6091,Sierra County,12.86
+2012,6093,Siskiyou County,24733.77
+2012,6095,Solano County,235.95
+2012,6097,Sonoma County,137.64
+2012,6099,Stanislaus County,97.46
+2012,6101,Sutter County,10
+2012,6103,Tehama County,30740.26
+2012,6105,Trinity County,6125.02
+2012,6107,Tulare County,2301.11
+2012,6109,Tuolumne County,1595.75
+2012,6111,Ventura County,1261.47
+2012,6113,Yolo County,1192.22
+2012,6115,Yuba County,562.99
+2013,6001,Alameda County,1003.99
+2013,6003,Alpine County,38.89
+2013,6005,Amador County,251.25
+2013,6007,Butte County,4371.75
+2013,6009,Calaveras County,215.59
+2013,6011,Colusa County,78.75
+2013,6013,Contra Costa County,4169.4
+2013,6015,Del Norte County,23
+2013,6017,El Dorado County,1353.27
+2013,6019,Fresno County,24965.16
+2013,6021,Glenn County,455.8
+2013,6023,Humboldt County,13625.21
+2013,6025,Imperial County,663.55
+2013,6027,Inyo County,481.61
+2013,6029,Kern County,8133.45
+2013,6031,Kings County,154.41
+2013,6033,Lake County,1221.24
+2013,6035,Lassen County,5618.09
+2013,6037,Los Angeles County,39282.06
+2013,6039,Madera County,1812.56
+2013,6041,Marin County,22.701
+2013,6043,Mariposa County,2061.27
+2013,6045,Mendocino County,818.08
+2013,6047,Merced County,1409.47
+2013,6049,Modoc County,877.75
+2013,6051,Mono County,23.18
+2013,6053,Monterey County,449.79
+2013,6055,Napa County,540.73
+2013,6057,Nevada County,140.17
+2013,6059,Orange County,70.66
+2013,6061,Placer County,27976.54
+2013,6063,Plumas County,661.311
+2013,6065,Riverside County,61975.36
+2013,6067,Sacramento County,249.48
+2013,6069,San Benito County,469.34
+2013,6071,San Bernardino County,2051.78
+2013,6073,San Diego County,12937.55
+2013,6075,San Francisco County,2
+2013,6077,San Joaquin County,584.04
+2013,6079,San Luis Obispo County,1106.69
+2013,6081,San Mateo County,71.6
+2013,6083,Santa Barbara County,2046.72
+2013,6085,Santa Clara County,239.06
+2013,6087,Santa Cruz County,78.34
+2013,6089,Shasta County,9167.09
+2013,6091,Sierra County,37.47
+2013,6093,Siskiyou County,37594.75
+2013,6095,Solano County,171.91
+2013,6097,Sonoma County,4261.72
+2013,6099,Stanislaus County,313.33
+2013,6101,Sutter County,57.5
+2013,6103,Tehama County,19322.19
+2013,6105,Trinity County,120.07
+2013,6107,Tulare County,3264.41
+2013,6109,Tuolumne County,257207.32
+2013,6111,Ventura County,29363.85
+2013,6113,Yolo County,209.34
+2013,6115,Yuba County,890.32
+2014,6001,Alameda County,131.9
+2014,6003,Alpine County,128.55
+2014,6005,Amador County,160.92
+2014,6007,Butte County,1013.12
+2014,6009,Calaveras County,334.53
+2014,6011,Colusa County,28.51
+2014,6013,Contra Costa County,213.04
+2014,6015,Del Norte County,28.4
+2014,6017,El Dorado County,102196.54
+2014,6019,Fresno County,452.11
+2014,6021,Glenn County,272.9
+2014,6023,Humboldt County,983.42
+2014,6025,Imperial County,13.7
+2014,6027,Inyo County,162.77
+2014,6029,Kern County,8733.88
+2014,6031,Kings County,9.71
+2014,6033,Lake County,248.09
+2014,6035,Lassen County,114.93
+2014,6037,Los Angeles County,2861.58
+2014,6039,Madera County,15063.07
+2014,6041,Marin County,27.48
+2014,6043,Mariposa County,12707.71
+2014,6045,Mendocino County,13208.87
+2014,6047,Merced County,2596.99
+2014,6049,Modoc County,16157.81
+2014,6051,Mono County,397.75
+2014,6053,Monterey County,5941.42
+2014,6055,Napa County,10961.54
+2014,6057,Nevada County,353.15
+2014,6059,Orange County,1014.82
+2014,6061,Placer County,3502.99
+2014,6063,Plumas County,88.09
+2014,6065,Riverside County,15606.18
+2014,6067,Sacramento County,134.09
+2014,6069,San Benito County,23.09
+2014,6071,San Bernardino County,2406.06
+2014,6073,San Diego County,11025.53
+2014,6075,San Francisco County,1.55
+2014,6077,San Joaquin County,89.62
+2014,6079,San Luis Obispo County,124.4
+2014,6081,San Mateo County,14.86
+2014,6083,Santa Barbara County,661.12
+2014,6085,Santa Clara County,272
+2014,6087,Santa Cruz County,25.62
+2014,6089,Shasta County,94276.95
+2014,6091,Sierra County,724.76
+2014,6093,Siskiyou County,210022.63
+2014,6095,Solano County,93.68
+2014,6097,Sonoma County,87.99
+2014,6099,Stanislaus County,467.93
+2014,6101,Sutter County,1.99
+2014,6103,Tehama County,1424.52
+2014,6105,Trinity County,6930.23
+2014,6107,Tulare County,1889.03
+2014,6109,Tuolumne County,810.3
+2014,6111,Ventura County,38.44
+2014,6113,Yolo County,405.56
+2014,6115,Yuba County,160.45
+2015,6001,Alameda County,3466.25
+2015,6003,Alpine County,17795.86
+2015,6005,Amador County,70892.42
+2015,6007,Butte County,3069.89
+2015,6009,Calaveras County,293.7
+2015,6011,Colusa County,9.16
+2015,6013,Contra Costa County,378.28
+2015,6015,Del Norte County,39512.01
+2015,6017,El Dorado County,604.48
+2015,6019,Fresno County,152943.45
+2015,6021,Glenn County,9.77
+2015,6023,Humboldt County,27575.55
+2015,6025,Imperial County,3.2
+2015,6027,Inyo County,6536.79
+2015,6029,Kern County,608
+2015,6031,Kings County,3.96
+2015,6033,Lake County,171818.33
+2015,6035,Lassen County,10986.52
+2015,6037,Los Angeles County,2729.21
+2015,6039,Madera County,7560.16
+2015,6041,Marin County,7.54
+2015,6043,Mariposa County,672.18
+2015,6045,Mendocino County,585.83
+2015,6047,Merced County,3866.41
+2015,6049,Modoc County,5126.37
+2015,6051,Mono County,4341.28
+2015,6053,Monterey County,1979.67
+2015,6055,Napa County,8186.81
+2015,6057,Nevada County,2522.92
+2015,6059,Orange County,230.02
+2015,6061,Placer County,391.56
+2015,6063,Plumas County,250.31
+2015,6065,Riverside County,3384.65
+2015,6067,Sacramento County,608.49
+2015,6069,San Benito County,765.5
+2015,6071,San Bernardino County,55986.98
+2015,6073,San Diego County,9532.29
+2015,6075,San Francisco County,2.11
+2015,6077,San Joaquin County,146.53
+2015,6079,San Luis Obispo County,4482.39
+2015,6081,San Mateo County,42.24
+2015,6083,Santa Barbara County,2123.79
+2015,6085,Santa Clara County,211.96
+2015,6087,Santa Cruz County,16.6
+2015,6089,Shasta County,858.88
+2015,6091,Sierra County,7.63
+2015,6093,Siskiyou County,1118.67
+2015,6095,Solano County,361.15
+2015,6097,Sonoma County,135.11
+2015,6099,Stanislaus County,194.7
+2015,6101,Sutter County,0.01
+2015,6103,Tehama County,593.52
+2015,6105,Trinity County,210960.02
+2015,6107,Tulare County,8291.87
+2015,6109,Tuolumne County,1014.05
+2015,6111,Ventura County,2441.84
+2015,6113,Yolo County,115.29
+2015,6115,Yuba County,86.78
+2016,6001,Alameda County,218.63
+2016,6003,Alpine County,696.41
+2016,6005,Amador County,460.62
+2016,6007,Butte County,2036.1
+2016,6009,Calaveras County,1428.84
+2016,6011,Colusa County,7.27
+2016,6013,Contra Costa County,227.61
+2016,6015,Del Norte County,115.86
+2016,6017,El Dorado County,6076.13
+2016,6019,Fresno County,28673.64
+2016,6021,Glenn County,3.03
+2016,6023,Humboldt County,862.84
+2016,6025,Imperial County,412.7
+2016,6027,Inyo County,610.9
+2016,6029,Kern County,82393.01
+2016,6031,Kings County,117.74
+2016,6033,Lake County,4266.36
+2016,6035,Lassen County,2653.07
+2016,6037,Los Angeles County,49216.12
+2016,6039,Madera County,834.89
+2016,6041,Marin County,38.95
+2016,6043,Mariposa County,1274.62
+2016,6045,Mendocino County,212.1
+2016,6047,Merced County,994.43
+2016,6049,Modoc County,3122.7
+2016,6051,Mono County,9084.14
+2016,6053,Monterey County,142161.87
+2016,6055,Napa County,5877.21
+2016,6057,Nevada County,99.47
+2016,6059,Orange County,255.61
+2016,6061,Placer County,462.21
+2016,6063,Plumas County,273.44
+2016,6065,Riverside County,2567.69
+2016,6067,Sacramento County,663.21
+2016,6069,San Benito County,194.66
+2016,6071,San Bernardino County,45983.41
+2016,6073,San Diego County,9359.73
+2016,6075,San Francisco County,5.72
+2016,6077,San Joaquin County,454.11
+2016,6079,San Luis Obispo County,52664.22
+2016,6081,San Mateo County,37.99
+2016,6083,Santa Barbara County,53145.88
+2016,6085,Santa Clara County,6172.82
+2016,6087,Santa Cruz County,19.71
+2016,6089,Shasta County,1472.07
+2016,6091,Sierra County,30.6
+2016,6093,Siskiyou County,36173.34
+2016,6095,Solano County,88.41
+2016,6097,Sonoma County,1647.01
+2016,6099,Stanislaus County,432.2
+2016,6101,Sutter County,137.12
+2016,6103,Tehama County,1211.14
+2016,6105,Trinity County,54.65
+2016,6107,Tulare County,12665.09
+2016,6109,Tuolumne County,1424.06
+2016,6111,Ventura County,2481.69
+2016,6113,Yolo County,580.09
+2016,6115,Yuba County,610.52
+2017,6001,Alameda County,511.27
+2017,6003,Alpine County,4500.64
+2017,6005,Amador County,148.52
+2017,6007,Butte County,22510.79
+2017,6009,Calaveras County,488.86
+2017,6011,Colusa County,34.69
+2017,6013,Contra Costa County,530.79
+2017,6015,Del Norte County,3430.25
+2017,6017,El Dorado County,952.92
+2017,6019,Fresno County,24291.53
+2017,6021,Glenn County,5.13
+2017,6023,Humboldt County,564.6
+2017,6025,Imperial County,1059.5
+2017,6027,Inyo County,119.31
+2017,6029,Kern County,13922.82
+2017,6031,Kings County,48063.44
+2017,6033,Lake County,2897.73
+2017,6035,Lassen County,92019.42
+2017,6037,Los Angeles County,31403.03
+2017,6039,Madera County,24706.77
+2017,6041,Marin County,19.65
+2017,6043,Mariposa County,92598.42
+2017,6045,Mendocino County,37541.62
+2017,6047,Merced County,2560.94
+2017,6049,Modoc County,93719.32
+2017,6051,Mono County,9760.87
+2017,6053,Monterey County,5405.36
+2017,6055,Napa County,146699.84
+2017,6057,Nevada County,1471.46
+2017,6059,Orange County,11893.7
+2017,6061,Placer County,173.22
+2017,6063,Plumas County,6698.55
+2017,6065,Riverside County,38018.61
+2017,6067,Sacramento County,1657.13
+2017,6069,San Benito County,97.78
+2017,6071,San Bernardino County,4068.77
+2017,6073,San Diego County,14580.98
+2017,6075,San Francisco County,10.79
+2017,6077,San Joaquin County,156.82
+2017,6079,San Luis Obispo County,32950.44
+2017,6081,San Mateo County,51.17
+2017,6083,Santa Barbara County,23399.04
+2017,6085,Santa Clara County,1114
+2017,6087,Santa Cruz County,409.34
+2017,6089,Shasta County,1581.35
+2017,6091,Sierra County,330.66
+2017,6093,Siskiyou County,207542.55
+2017,6095,Solano County,283.93
+2017,6097,Sonoma County,19202.22
+2017,6099,Stanislaus County,283.77
+2017,6101,Sutter County,26.97
+2017,6103,Tehama County,1004.78
+2017,6105,Trinity County,40526.17
+2017,6107,Tulare County,78248.61
+2017,6109,Tuolumne County,3487.53
+2017,6111,Ventura County,282097.38
+2017,6113,Yolo County,1765.02
+2017,6115,Yuba County,9288.83
+2018,6001,Alameda County,870.95
+2018,6003,Alpine County,230.18
+2018,6005,Amador County,888.57
+2018,6007,Butte County,155789.77
+2018,6009,Calaveras County,510
+2018,6011,Colusa County,85
+2018,6013,Contra Costa County,915.94
+2018,6015,Del Norte County,38156.51
+2018,6017,El Dorado County,691.06
+2018,6019,Fresno County,2128.44
+2018,6021,Glenn County,2500.24
+2018,6023,Humboldt County,4173.17
+2018,6025,Imperial County,50.41
+2018,6027,Inyo County,6086.64
+2018,6029,Kern County,5128.02
+2018,6031,Kings County,92.82
+2018,6033,Lake County,15713.6
+2018,6035,Lassen County,20436.38
+2018,6037,Los Angeles County,5469.68
+2018,6039,Madera County,14734.76
+2018,6041,Marin County,155.15
+2018,6043,Mariposa County,97697.82
+2018,6045,Mendocino County,460351.85
+2018,6047,Merced County,7200.68
+2018,6049,Modoc County,42054.47
+2018,6051,Mono County,7754.46
+2018,6053,Monterey County,4144.1
+2018,6055,Napa County,2731.38
+2018,6057,Nevada County,84.78
+2018,6059,Orange County,23375.59
+2018,6061,Placer County,2520.94
+2018,6063,Plumas County,263.47
+2018,6065,Riverside County,16585.73
+2018,6067,Sacramento County,127.12
+2018,6069,San Benito County,2244.35
+2018,6071,San Bernardino County,24146.7
+2018,6073,San Diego County,3720.37
+2018,6075,San Francisco County,14.27
+2018,6077,San Joaquin County,12057.35
+2018,6079,San Luis Obispo County,2022.29
+2018,6081,San Mateo County,17.52
+2018,6083,Santa Barbara County,963.75
+2018,6085,Santa Clara County,626.62
+2018,6087,Santa Cruz County,45.14
+2018,6089,Shasta County,342819.47
+2018,6091,Sierra County,11.18
+2018,6093,Siskiyou County,38951.07
+2018,6095,Solano County,2316.35
+2018,6097,Sonoma County,76.7
+2018,6099,Stanislaus County,12808.05
+2018,6101,Sutter County,1328.19
+2018,6103,Tehama County,12926.31
+2018,6105,Trinity County,2110.07
+2018,6107,Tulare County,6576.79
+2018,6109,Tuolumne County,37353.83
+2018,6111,Ventura County,101488.97
+2018,6113,Yolo County,91137.37
+2018,6115,Yuba County,281.39
+2019,6001,Alameda County,263.58
+2019,6003,Alpine County,119.35
+2019,6005,Amador County,16.65
+2019,6007,Butte County,954.28
+2019,6009,Calaveras County,114.27
+2019,6011,Colusa County,27.9
+2019,6013,Contra Costa County,1253.83
+2019,6015,Del Norte County,1.7
+2019,6017,El Dorado County,3959.83
+2019,6019,Fresno County,1507.69
+2019,6021,Glenn County,18.8
+2019,6023,Humboldt County,77.92
+2019,6025,Imperial County,51.8
+2019,6027,Inyo County,10317.7
+2019,6029,Kern County,5216.05
+2019,6031,Kings County,2.1
+2019,6033,Lake County,120.6
+2019,6035,Lassen County,8132.27
+2019,6037,Los Angeles County,18050.02
+2019,6039,Madera County,437.51
+2019,6041,Marin County,68.43
+2019,6043,Mariposa County,7051.6
+2019,6045,Mendocino County,1258.71
+2019,6047,Merced County,1671.34
+2019,6049,Modoc County,20332.79
+2019,6051,Mono County,4868.6
+2019,6053,Monterey County,3526.29
+2019,6055,Napa County,564.07
+2019,6057,Nevada County,748.43
+2019,6059,Orange County,41.64
+2019,6061,Placer County,164.37
+2019,6063,Plumas County,54862.26
+2019,6065,Riverside County,11362.43
+2019,6067,Sacramento County,44.54
+2019,6069,San Benito County,213.05
+2019,6071,San Bernardino County,1489.38
+2019,6073,San Diego County,2280.11
+2019,6075,San Francisco County,17.5
+2019,6077,San Joaquin County,352.43
+2019,6079,San Luis Obispo County,5443.17
+2019,6081,San Mateo County,4.51
+2019,6083,Santa Barbara County,3709.09
+2019,6085,Santa Clara County,924.02
+2019,6087,Santa Cruz County,0.88
+2019,6089,Shasta County,908.98
+2019,6091,Sierra County,19.97
+2019,6093,Siskiyou County,2626.37
+2019,6095,Solano County,58.01
+2019,6097,Sonoma County,76905.09
+2019,6099,Stanislaus County,2542.61
+2019,6101,Sutter County,4.25
+2019,6103,Tehama County,17023.08
+2019,6105,Trinity County,2413.46
+2019,6107,Tulare County,4683.2
+2019,6109,Tuolumne County,994.37
+2019,6111,Ventura County,12234.01
+2019,6113,Yolo County,2547.4
+2019,6115,Yuba County,53.68
+2020,6001,Alameda County,677.9
+2020,6003,Alpine County,100.3
+2020,6005,Amador County,18.61
+2020,6007,Butte County,25495.32
+2020,6009,Calaveras County,5362.48
+2020,6011,Colusa County,629.36
+2020,6013,Contra Costa County,512.64
+2020,6015,Del Norte County,5.4
+2020,6017,El Dorado County,2881.52
+2020,6019,Fresno County,415834.94
+2020,6021,Glenn County,591882.19
+2020,6023,Humboldt County,142857.75
+2020,6025,Imperial County,165.3
+2020,6027,Inyo County,438
+2020,6029,Kern County,187196.01
+2020,6031,Kings County,2000
+2020,6033,Lake County,9704.59
+2020,6035,Lassen County,130870.09
+2020,6037,Los Angeles County,156530
+2020,6039,Madera County,1135.87
+2020,6041,Marin County,4948.78
+2020,6043,Mariposa County,7880.42
+2020,6045,Mendocino County,14757.38
+2020,6047,Merced County,4890.85
+2020,6049,Modoc County,2756.33
+2020,6051,Mono County,51363.8
+2020,6053,Monterey County,185263.8
+2020,6055,Napa County,381322.21
+2020,6057,Nevada County,2104.29
+2020,6059,Orange County,19167.04
+2020,6061,Placer County,468.66
+2020,6063,Plumas County,361016.76
+2020,6065,Riverside County,62549.7
+2020,6067,Sacramento County,7112.96
+2020,6069,San Benito County,2427.56
+2020,6071,San Bernardino County,69895.99
+2020,6073,San Diego County,22626.33
+2020,6075,San Francisco County,1.6
+2020,6077,San Joaquin County,19.04
+2020,6079,San Luis Obispo County,10028.42
+2020,6081,San Mateo County,86574.05
+2020,6083,Santa Barbara County,2793.22
+2020,6085,Santa Clara County,415373.89
+2020,6087,Santa Cruz County,696.93
+2020,6089,Shasta County,57763.19
+2020,6091,Sierra County,47175.68
+2020,6093,Siskiyou County,252352.22
+2020,6095,Solano County,1919.85
+2020,6097,Sonoma County,55423.26
+2020,6099,Stanislaus County,125.75
+2020,6101,Sutter County,24.17
+2020,6103,Tehama County,94899.63
+2020,6105,Trinity County,331229.85
+2020,6107,Tulare County,11910.29
+2020,6109,Tuolumne County,5425.38
+2020,6111,Ventura County,3405.49
+2020,6113,Yolo County,44.76
+2020,6115,Yuba County,1370.47
