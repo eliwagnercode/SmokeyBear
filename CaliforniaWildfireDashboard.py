@@ -42,6 +42,7 @@ fig = px.choropleth_mapbox(
     center={'lat': 37.0902, 'lon': -119.4179},
     opacity=0.8,
     animation_frame = 'Year',
-    animation_group = 'FIPS'
+    animation_group = 'FIPS',
+    title = 'Total Burn Area By County And Year'
 )
 fig.show()
